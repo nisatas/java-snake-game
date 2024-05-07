@@ -10,10 +10,7 @@ public class GameFrame extends JFrame{
 		this.pack();
 		this.setVisible(true);
 		this.setLocationRelativeTo(null);
-		this.setTitle("Snake");
-		this.setAlwaysOnTop(rootPaneCheckingEnabled);
-		this.addFocusListener(null);
-		this.paintAll(getGraphics());
+		
 		
 	}
 }
