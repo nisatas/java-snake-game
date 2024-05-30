@@ -1,10 +1,9 @@
  
-public class SnakeGame {
+public class YilanOyunu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		 new GameFrame();
+		new OyunCercevesi();
 	}
 
 }
